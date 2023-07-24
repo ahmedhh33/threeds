@@ -1,0 +1,15 @@
+C:\Users\TRA\Desktop\TRA-Code\Threeds\bin\Debug\net6.0\Threeds.exe
+C:\Users\TRA\Desktop\TRA-Code\Threeds\bin\Debug\net6.0\Threeds.deps.json
+C:\Users\TRA\Desktop\TRA-Code\Threeds\bin\Debug\net6.0\Threeds.runtimeconfig.json
+C:\Users\TRA\Desktop\TRA-Code\Threeds\bin\Debug\net6.0\Threeds.dll
+C:\Users\TRA\Desktop\TRA-Code\Threeds\bin\Debug\net6.0\Threeds.pdb
+C:\Users\TRA\Desktop\TRA-Code\Threeds\obj\Debug\net6.0\Threeds.csproj.AssemblyReference.cache
+C:\Users\TRA\Desktop\TRA-Code\Threeds\obj\Debug\net6.0\Threeds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\Desktop\TRA-Code\Threeds\obj\Debug\net6.0\Threeds.AssemblyInfoInputs.cache
+C:\Users\TRA\Desktop\TRA-Code\Threeds\obj\Debug\net6.0\Threeds.AssemblyInfo.cs
+C:\Users\TRA\Desktop\TRA-Code\Threeds\obj\Debug\net6.0\Threeds.csproj.CoreCompileInputs.cache
+C:\Users\TRA\Desktop\TRA-Code\Threeds\obj\Debug\net6.0\Threeds.dll
+C:\Users\TRA\Desktop\TRA-Code\Threeds\obj\Debug\net6.0\refint\Threeds.dll
+C:\Users\TRA\Desktop\TRA-Code\Threeds\obj\Debug\net6.0\Threeds.pdb
+C:\Users\TRA\Desktop\TRA-Code\Threeds\obj\Debug\net6.0\Threeds.genruntimeconfig.cache
+C:\Users\TRA\Desktop\TRA-Code\Threeds\obj\Debug\net6.0\ref\Threeds.dll
